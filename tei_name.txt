@@ -13,8 +13,8 @@
 		 <profileDesc>     
              <particDesc>
                  <listPerson type="fictional">  
-                     <person xml:id="01">     # айди - буквы, цифры, названия - на ваш выбор
-                         <persName>Зевес</persName> # выделяем персонажа
+                     <person xml:id="01">    
+                         <persName>Зевес</persName> 
                      </person>
                      <person xml:id="02">
                          <persName>Церера</persName>
@@ -24,8 +24,8 @@
                      </person>
                  </listPerson>
 				 <listPerson type="historical">  
-                     <person xml:id="A">     # айди - буквы, цифры, названия - на ваш выбор
-                         <persName>Ломоносов</persName> # выделяем персонажа
+                     <person xml:id="A">     
+                         <persName>Ломоносов</persName> 
                      </person>
                  </listPerson>
               </particDesc>
